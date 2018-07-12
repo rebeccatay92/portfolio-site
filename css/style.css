@@ -1,0 +1,113 @@
+.navbar {
+  background-color: #2C3E50;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.navLinksContainer {
+  margin: auto 0;
+}
+
+a.nav-link {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: white;
+}
+
+a.nav-link:hover {
+  text-decoration: underline
+}
+
+.jumbotron {
+  background-color: #18BC9C;
+  margin-bottom: 0;
+}
+
+.aboutSection {
+  /* text-align: center; */
+}
+
+.header {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+hr {
+  border-top: 5px solid black;
+  width: 300px;
+}
+
+.profileSummary {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.portfolioSection {
+  margin-top: 60px;
+}
+
+.projectTitle {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+ol.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators li {
+  background-color: grey; !important
+}
+.carousel-indicators .active {
+  background-color: rgb(220, 60, 60); !important
+}
+
+.carousel-control-prev, .carousel-control-next {
+  width: 5%;
+}
+
+.carousel-caption {
+  padding-bottom: 0;
+  padding-top: 0
+}
+
+.carousel-caption > h5 {
+  color: black;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.projectDetailsContainer {
+  padding: 30px 0;
+}
+
+.projectDetailsContainer > h6 {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.contactUrl {
+  color: black;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+.contactUrl:hover {
+  color: black;
+}
+
+footer {
+  height: 60px;
+  background-color: #2C3E50;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: white;
+}
