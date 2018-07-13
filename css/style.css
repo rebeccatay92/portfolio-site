@@ -25,10 +25,6 @@ a.nav-link:hover {
   margin-bottom: 0;
 }
 
-.aboutSection {
-  /* text-align: center; */
-}
-
 .header {
   font-family: 'Montserrat';
   font-weight: 700;
@@ -55,6 +51,15 @@ hr {
   font-weight: 700;
   font-size: 2rem;
   margin-top: 30px;
+}
+
+a.liveSiteLinks {
+  color: black;
+}
+
+a.liveSiteLinks:hover {
+  text-decoration: none;
+  color: blue;
 }
 
 ol.carousel-indicators {
