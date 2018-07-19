@@ -20,6 +20,10 @@ a.nav-link:hover {
   text-decoration: underline
 }
 
+a.resumeLink {
+  color: black
+}
+
 .jumbotron {
   background-color: #18BC9C;
   margin-bottom: 0;
